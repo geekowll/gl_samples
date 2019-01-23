@@ -53,4 +53,5 @@ target_link_libraries(${PROJECT_NAME}
                       assimp
                       STB_IMAGE
                       GLAD
-                      dl)
+                      dl
+                      pthread)
